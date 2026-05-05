@@ -1,3 +1,12 @@
 [submodule "Micro-Alerta"]
 	path = Micro-Alerta
 	url = https://github.com/BIGSm0ke/FULLSTACK-III-803V-Micro-Alertas
+[submodule "Micro-Usuario"]
+	path = Micro-Usuario
+	url = https://github.com/BIGSm0ke/FULLSTACK-III-803V-Micro-Usuarios
+[submodule "Micro-Reportes"]
+	path = Micro-Reportes
+	url = https://github.com/BIGSm0ke/FULLSTACK-III-803V-Micro-Reportes
+[submodule "Micro-Monitoreo"]
+	path = Micro-Monitoreo
+	url = https://github.com/BIGSm0ke/FULLSTACK-III-803V-Micro-Monitoreo
