@@ -10,6 +10,6 @@
 [submodule "Micro-Monitoreo"]
 	path = Micro-Monitoreo
 	url = https://github.com/BIGSm0ke/FULLSTACK-III-803V-Micro-Monitoreo
-[submodule "microservicios/GateWay"]
-	path = microservicios/GateWay
+[submodule "GateWay"]
+	path = GateWay
 	url = https://github.com/BIGSm0ke/FULLSTACK-III-803V-GateWay.git
